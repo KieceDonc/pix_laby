@@ -13,7 +13,7 @@ x = 4 = E
 
 y commence à 0 dans cette algo. Faites donc attention, la valeur finale serra de y+=1
 
-
+```
 Le pion est en A2. 
 Cet algorithme décrit son déplacement case par case : 
 droite() 
@@ -32,4 +32,4 @@ haut()
 droite() 
 haut() 
 Dans quelle case le pion arrive-t-il ? 
-
+```
